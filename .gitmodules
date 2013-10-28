@@ -1,0 +1,30 @@
+[submodule "bundle/ctrlp.vim.git"]
+	path = bundle/ctrlp.vim.git
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "bundle/minibufexpl.vim"]
+	path = bundle/minibufexpl.vim
+	url = https://github.com/fholgado/minibufexpl.vim
+[submodule "bundle/nerdtree.git"]
+	path = bundle/nerdtree.git
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/tagbar.git"]
+	path = bundle/tagbar.git
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "bundle/tlib_vim"]
+	path = bundle/tlib_vim
+	url = https://github.com/tomtom/tlib_vim
+[submodule "bundle/vim-asciidoc"]
+	path = bundle/vim-asciidoc
+	url = https://github.com/dahu/vim-asciidoc
+[submodule "bundle/vim-colorschemes.git"]
+	path = bundle/vim-colorschemes.git
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/vim-fswitch.git"]
+	path = bundle/vim-fswitch.git
+	url = https://github.com/derekwyatt/vim-fswitch.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = https://github.com/tpope/vim-markdown
+[submodule "bundle/vim-sensible.git"]
+	path = bundle/vim-sensible.git
+	url = git://github.com/tpope/vim-sensible.git
