@@ -37,3 +37,6 @@
 [submodule "bundle/SWIG-syntax"]
 	path = bundle/SWIG-syntax
 	url = https://github.com/vim-scripts/SWIG-syntax
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = https://github.com/vim-scripts/taglist.vim.git
